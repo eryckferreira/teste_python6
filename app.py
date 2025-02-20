@@ -1,3 +1,4 @@
-nome = input("Digite seu nome: ")
+saldo = 200
+saque = 100
 
-print(f"seu nome é {nome}")
+print(saldo != saque)
